@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IMeMxvfglgw=",
+  "dgSpecHash": "oJgii76Hnyw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Miqueias\\Projetos\\Dotnet\\OrderServiceDddDotnet\\OrderService.Application\\OrderService.Application.csproj",
+  "projectFilePath": "C:\\Users\\Miqueias\\Projetos\\Dotnet\\OrderServiceDddDotnet\\src\\OrderService.Application\\OrderService.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

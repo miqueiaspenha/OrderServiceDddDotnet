@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ECtRVg9Hpwg=",
+  "dgSpecHash": "ekT7gG5K3Uc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Miqueias\\Projetos\\Dotnet\\OrderServiceDddDotnet\\OrderService.API\\OrderService.API.csproj",
+  "projectFilePath": "C:\\Users\\Miqueias\\Projetos\\Dotnet\\OrderServiceDddDotnet\\src\\OrderService.API\\OrderService.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Miqueias\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
     "C:\\Users\\Miqueias\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"

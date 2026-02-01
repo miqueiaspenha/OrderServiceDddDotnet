@@ -411,6 +411,16 @@
         "build": {
           "build/net6.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "OrderService.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/OrderService.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OrderService.Domain.dll": {}
+        }
       }
     }
   },
@@ -932,11 +942,17 @@
         "xunit.runner.visualstudio.2.8.2.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "OrderService.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../src/OrderService.Domain/OrderService.Domain.csproj",
+      "msbuildProject": "../../src/OrderService.Domain/OrderService.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.NET.Test.Sdk >= 17.12.0",
+      "OrderService.Domain >= 1.0.0",
       "coverlet.collector >= 6.0.2",
       "xunit >= 2.9.2",
       "xunit.runner.visualstudio >= 2.8.2"
@@ -973,7 +989,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Miqueias\\Projetos\\Dotnet\\OrderServiceDddDotnet\\src\\OrderService.Domain\\OrderService.Domain.csproj": {
+              "projectPath": "C:\\Users\\Miqueias\\Projetos\\Dotnet\\OrderServiceDddDotnet\\src\\OrderService.Domain\\OrderService.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

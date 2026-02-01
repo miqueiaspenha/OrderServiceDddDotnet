@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Miqueias\\Projetos\\Dotnet\\OrderServiceDddDotnet\\OrderService.Domain\\OrderService.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Miqueias\\Projetos\\Dotnet\\OrderServiceDddDotnet\\src\\OrderService.Domain\\OrderService.Domain.csproj",
       "projectName": "OrderService.Domain",
-      "projectPath": "C:\\Users\\Miqueias\\Projetos\\Dotnet\\OrderServiceDddDotnet\\OrderService.Domain\\OrderService.Domain.csproj",
+      "projectPath": "C:\\Users\\Miqueias\\Projetos\\Dotnet\\OrderServiceDddDotnet\\src\\OrderService.Domain\\OrderService.Domain.csproj",
       "packagesPath": "C:\\Users\\Miqueias\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Miqueias\\Projetos\\Dotnet\\OrderServiceDddDotnet\\OrderService.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Miqueias\\Projetos\\Dotnet\\OrderServiceDddDotnet\\src\\OrderService.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
